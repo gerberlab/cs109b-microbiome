@@ -1,6 +1,5 @@
----
-title: Installing DADA2
-...
+# Installing DADA2
+
 
 Before exploring the DADA2 tutorial in the notebook
 
@@ -70,8 +69,3 @@ DADA2_short_tutorial.ipynb
 ```
 
 and be sure to set it to the appropriate kernel
-
-<!--
-pandoc -f markdown -o install_dada2.html install_dada2.md --template=GitHub.html5  --self-contained -t html5
-pandoc -f markdown -o install_dada2.pdf install_dada2.md --template=GitHub.html5  --self-contained -t html5
--->
