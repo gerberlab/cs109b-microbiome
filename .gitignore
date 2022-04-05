@@ -1,0 +1,5 @@
+output/
+download/
+figures/
+raw_sequencing_files/
+.DS_Store
