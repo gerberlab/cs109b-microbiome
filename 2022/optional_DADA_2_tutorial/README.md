@@ -1,6 +1,5 @@
 # Installing DADA2
 
-
 Before exploring the DADA2 tutorial in the notebook `DADA2_short_tutorial.ipynb`
 
 
@@ -15,7 +14,7 @@ conda create -n rmicrobiome \
   -c defaults \
   -c r \
   --override-channels \
-  bioconductor-dada2=1.18.0 \
+  bioconductor-dada2=1.16 \
   bioconductor-phyloseq \
   r-r.utils \
   r-irkernel \
