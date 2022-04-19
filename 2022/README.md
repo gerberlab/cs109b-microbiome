@@ -42,7 +42,7 @@ Each dataset contains the following data files:
   - Data type: Shotgun metagenomics
   - [paper](https://github.com/gerberlab/cs109b-microbiome/blob/main/2022/references/Kostic_2015.pdf)
 
-- Dataset 6: [Shao 2019]()
+- Dataset 6: [Shao 2019](). [note to potentially remove or move to the bottom]
   - todo: unpickle and save as separate files
   - A study of gut microbiomes of 282 infants (after filtering for subjects with fewer than three timepoints) sampled over 424 days. Classification task of mode of birth (vaginal versus C-section).
   - [paper](https://github.com/gerberlab/cs109b-microbiome/blob/main/2022/references/Shao_2019.pdf)
