@@ -58,7 +58,8 @@ We also have a folder going into the detail of how amplicon sequencing data is a
 ### TODO: (slides) remove laterr
 - focus on the domain...
 - context what the should be looking for groups of bugs, what we are predicting, could integrate with features
-- this is kostic and these are infants and what the data means... and give a concrete example of what we would want to predict and what the hand engineered in this example might be.... there are ofcourse many others... one detailed example kostic... could reference mitre for ideaas of what features, average, slope, time window...
+- this is Bokulich 2016. infants and what the data means... and give a concrete example of what we would want to predict and what the hand engineered in this example might be.... there are ofcourse many others... one detailed example kostic... could reference mitre for ideaas of what features, average, slope, time window...
+  - Data type: 16S amplicon
 - note that the vaginal microbiome is a totally different environment... way less diversity
 - one slide on shotgun [TG]
 - slides on contextualizing interpretability [GU]
