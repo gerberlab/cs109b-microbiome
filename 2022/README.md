@@ -22,8 +22,7 @@ Each dataset contains the following data files:
   - Data type: 16S amplicon
   - [paper](https://github.com/gerberlab/cs109b-microbiome/blob/main/2022/references/Bokulich_2016.pdf)
 
-- Dataset 2: [Brooks 2017]()
-  - todo: unpickle and save as separate files
+- Dataset 2: [Brooks 2017](https://github.com/gerberlab/mditre/tree/master/mditre/tutorials/datasets/processed/brooks)
   - A study of gut microbiomes of 30 infants sampled over 75 days. Classification task of mode of birth (vaginal versus C-section).
   - [paper](https://github.com/gerberlab/cs109b-microbiome/blob/main/2022/references/Brooks_2017.pdf)
 
@@ -43,11 +42,12 @@ Each dataset contains the following data files:
   - [paper](https://github.com/gerberlab/cs109b-microbiome/blob/main/2022/references/Kostic_2015.pdf)
 
 - Dataset 6: [Shao 2019](). [note to potentially remove or move to the bottom]
-  - todo: unpickle and save as separate files
+  - Note: this dataset has very little time-series data, may not want to use
   - A study of gut microbiomes of 282 infants (after filtering for subjects with fewer than three timepoints) sampled over 424 days. Classification task of mode of birth (vaginal versus C-section).
+  - Data type: Shotgun metagenomics
   - [paper](https://github.com/gerberlab/cs109b-microbiome/blob/main/2022/references/Shao_2019.pdf)
 
-- Dataset 7: [Vatanen 2016]()
+- Dataset 7: [Vatanen 2016](https://github.com/gerberlab/mditre/tree/master/mditre/tutorials/datasets/raw/karelia)
   - todo: figure out unpickle issue
   - A study of the gut microbiomes of 117 children sampled over the first three years of life. Classification task of nationality (Russian versus Estonian/Finnish).
   - [paper](https://github.com/gerberlab/cs109b-microbiome/blob/main/2022/references/Vatanen_2016.pdf)
