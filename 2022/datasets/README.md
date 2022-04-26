@@ -8,9 +8,9 @@ Most datasets contain files for the following data:
 - `Subject metadata`: Usually file of the form `subject_data.csv`. A CSV file that gives the host status/classification label for each subject ID. 
 - `Phylogenetic tree`: Newick or jplace file
 
-A few exceptions to the above file structure are for the David, Brooks, and Shao datasets. For the David dataset, the amplicon sequence information is contained in a separate file. The accompanying jupyter notebook shows how to load this data and map it to the rest of the data.
+A couple exceptions to the above file structure are for the David and Brooks datasets. For the David dataset, the amplicon sequence information is contained in a separate file. The accompanying jupyter notebook shows how to load this data and map it to the rest of the data.
 
-The brooks and shao datasets are given in pickled files. Corresponding jupyter notebooks open and process these files to obtain the relevant data. [add me]
+The Brooks dataset obtained from the MDITRE github repo is given in a pickled file. An additional google colab jupyter notebook entitled `brooks_extract_from_pickle.ipynb` is in the Brooks directory, which shows how the csv files in that directory were obtained. The Jupyter notebook `brooks_dataset_overview.ipynb` then goes over the relevant extracted csv files and the data contained in them.
 
 ## MDITRE
 
