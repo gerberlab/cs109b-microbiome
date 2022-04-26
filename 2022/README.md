@@ -41,12 +41,6 @@ For more details on the datasets you can read the [MITRE](https://github.com/ger
   - Data type: 16S amplicon
   - [paper](https://github.com/gerberlab/cs109b-microbiome/blob/main/2022/references/Vatanen_2016.pdf)
 
-- Dataset 7: [Shao 2019](https://github.com/gerberlab/cs109b-microbiome/tree/main/2022/datasets/shao). [note to potentially remove or move to the bottom]
-  - Note: this dataset has very little time-series data, may not want to use
-  - A study of gut microbiomes of 282 infants (after filtering for subjects with fewer than three timepoints) sampled over 424 days. Classification task of mode of birth (vaginal versus C-section).
-  - Data type: Shotgun metagenomics
-  - [paper](https://github.com/gerberlab/cs109b-microbiome/blob/main/2022/references/Shao_2019.pdf)
-
 
 We also have a folder going into the detail of how amplicon sequencing data is analyzed and converted into ASV (ASVs) in the folder [add me]
 
