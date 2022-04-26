@@ -1,7 +1,7 @@
 # cs109b-microbiome
 
 This folder is organized as follows:
-- `datasets`: This folder contains subfolders with each of the datasets. Each dataset has been copied over from the [MDITRE page](https://github.com/gerberlab/mditre/tree/master/mditre/tutorials/datasets). Corresponding jupyter notebooks named '<dataset-name>_dataset_overview.pynb' demonstrating the contents each dataset are included in each subfolder.
+- `datasets`: This folder contains subfolders with each of the datasets. Each dataset has been copied over from the [MDITRE page](https://github.com/gerberlab/mditre/tree/master/mditre/tutorials/datasets). Corresponding jupyter notebooks named `<dataset-name>_dataset_overview.pynb` demonstrating the contents each dataset are included in each subfolder.
 - `optional_DADA_2_tutorial`: This folder contains a jupyter notebook demonstrating how DADA2 is used to process raw 16S rRNA amplicon sequencing reads to create a read table of Amplicon Sequence Variants (ASVs) and using phyloseq to generate taxonomy.
 - `references`: This folder contains the original papers for each of the studies, as well as the MITRE and MDITRE papers.
 
